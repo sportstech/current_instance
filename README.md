@@ -39,7 +39,7 @@ Food.current #=> nil
 
 ## Travis
 
-{<img src="http://travis-ci.org/chaffeqa/current_instance.png" />}[http://travis-ci.org/chaffeqa/current_instance]
+[![Build Status](https://secure.travis-ci.org/chaffeqa/current_instance.png)](http://travis-ci.org/chaffeqa/current_instance)
 
 ## TODO
 
